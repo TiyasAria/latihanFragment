@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/_16dp"
+    tools:context=".latihanFragment.CategoryFragment">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_category"
+        android:textSize="@dimen/_30sp"
+        android:layout_marginBottom="@dimen/_16dp"/>
+
+    <Button
+        android:id="@+id/btn_detail_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_categori_text"/>
+
+
+</LinearLayout>

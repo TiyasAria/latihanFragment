@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">latihanFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_home">Hello Home Fragment</string>
+    <string name="txt_go_category">Go to Category</string>
+    <string name="txt_category">This is Category Fragment</string>
+    <string name="txt_categori_text">Category</string>
+    <string name="txt_name_category">Nama Category</string>
+    <string name="txt_detail">Detail Category</string>
+    <string name="txt_profike">Profile</string>
+    <string name="txt_dialog">Show Dialog</string>
+    <string name="txt_question">The Question</string>
+    <string name="txt_option1">Sirr Alex marguson</string>
+    <string name="txt_option2">Jouse Morinho</string>
+    <string name="txt_opytion3">Louis Van Gal</string>
+    <string name="txt_option4">David Moueyeus</string>
+    <string name="txt_close">CLose</string>
+    <string name="txt_choose">Choose</string>
+    <string name="txt_profile">This is Profile</string>
+</resources>
